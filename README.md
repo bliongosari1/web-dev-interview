@@ -10,6 +10,7 @@ Build a web app where users can fetch random users from the [Random User API](ht
 ### Random User Fetching
 - **On Page Load**: Fetch and display a random user's name and profile picture.
 - **Fetch More Users**: Add a button to fetch additional users and append them to a list of previously fetched users.
+"https://randomuser.me/api/"
 
 ### Click Counter for Each User
 - Track the number of clicks for each user individually.
