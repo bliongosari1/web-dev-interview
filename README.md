@@ -24,3 +24,7 @@ Build a web app where users can fetch random users from the [Random User API](ht
 
 1. **Persistent Data**: Save the list of fetched users and their click counts to local storage so that the data persists even after refreshing the page.
 2. **Make sure API's aren't spammed when clicking fetch users**: Max 1 API calls per second 
+
+https://2170370.playcode.io/
+
+<img width="1512" alt="Screenshot 2024-11-27 at 3 43 09 PM" src="https://github.com/user-attachments/assets/662d3b19-fc61-41cf-a02b-f33e5661f1c5">
